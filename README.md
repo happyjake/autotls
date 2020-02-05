@@ -1,9 +1,9 @@
 # autotls
 
-[![Build Status](https://travis-ci.org/gin-gonic/autotls.svg?branch=master)](https://travis-ci.org/gin-gonic/autotls) 
-[![Go Report Card](https://goreportcard.com/badge/github.com/gin-gonic/autotls)](https://goreportcard.com/report/github.com/gin-gonic/autotls)
-[![GoDoc](https://godoc.org/github.com/gin-gonic/autotls?status.svg)](https://godoc.org/github.com/gin-gonic/autotls)
-[![Join the chat at https://gitter.im/gin-gonic/autotls](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gin-gonic/autotls?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/happyjake/autotls.svg?branch=master)](https://travis-ci.org/happyjake/autotls) 
+[![Go Report Card](https://goreportcard.com/badge/github.com/happyjake/autotls)](https://goreportcard.com/report/github.com/happyjake/autotls)
+[![GoDoc](https://godoc.org/github.com/happyjake/autotls?status.svg)](https://godoc.org/github.com/happyjake/autotls)
+[![Join the chat at https://gitter.im/happyjake/autotls](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/happyjake/autotls?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Support Let's Encrypt for a Go server application.
 
@@ -18,7 +18,7 @@ package main
 import (
 	"log"
 
-	"github.com/gin-gonic/autotls"
+	"github.com/happyjake/autotls"
 	"github.com/gin-gonic/gin"
 )
 
@@ -43,7 +43,7 @@ package main
 import (
 	"log"
 
-	"github.com/gin-gonic/autotls"
+	"github.com/happyjake/autotls"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/acme/autocert"
 )

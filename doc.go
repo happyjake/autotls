@@ -5,7 +5,7 @@
 // 	import (
 // 		"log"
 //
-// 		"github.com/gin-gonic/autotls"
+// 		"github.com/happyjake/autotls"
 // 		"github.com/gin-gonic/gin"
 // 	)
 //
